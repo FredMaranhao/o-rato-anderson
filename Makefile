@@ -1,4 +1,6 @@
-o-rato-anderson: era-uma-vez.png esse-rato-morava-num-buraco.png
+o-rato-anderson: imagens
+
+imagens: era-uma-vez.png esse-rato-morava-num-buraco.png que-ficava-embaixo-de-uma-raiz.png de-um-grande-baobá.png no-meio-da-floresta.png
 
 era-uma-vez.png:
 	convert era-uma-vez.svg era-uma-vez.png
