@@ -9,6 +9,9 @@ esse-rato-morava-num-buraco.png:
 que-ficava-embaixo-de-uma-raiz.png:
 	convert que-ficava-embaixo-de-uma-raiz.svg que-ficava-embaixo-de-uma-raiz.png
 de-um-grande-baobá.png:
-	convert de-um-grande-baobá.svg de-um-grande-baobá.png
+	cp de-um-grande-baobá.svg de-um-grande-baoba.svg
+	convert de-um-grande-baoba.svg de-um-grande-baoba.png
+	cp de-um-grande-baoba.png de-um-grande-baobá.png
+	rm de-um-grande-baoba.png de-um-grande-baoba.svg
 no-meio-da-floresta.png:
 	convert no-meio-da-floresta.svg no-meio-da-floresta.png
