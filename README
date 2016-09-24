@@ -1,5 +1,7 @@
 the main file is o-rato-anderson.sla
 
-the original text is in o-rato-enderson.txt
+you will need the following softwares:
 
-you should run the command make to generate the imagens
+make: to generate the imagens
+scribus: to edit the .sla file
+inkscape: to edit and convert the svg figures

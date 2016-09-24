@@ -1,4 +1,4 @@
 o-rato-anderson
 ===============
 
-child's book about a mice named anderson
+child's book (in portuguese) about a mice named anderson
