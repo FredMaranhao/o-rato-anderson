@@ -17,7 +17,9 @@ imagens: em-branco.png era-uma-vez.png esse-rato-morava-num-buraco.png \
 	e-quando-cada-um-passava.png \
 	quando-os-quatro-ratos-estavam-atrás-da-geladeira.png \
 	e-falou-umas-palavras-mágicas.png depois-bergson-fez-outro-balão.png \
-	depois-fez-mais-um-e-geraldo-subiu.png
+	depois-fez-mais-um-e-geraldo-subiu.png \
+	e-depois-fez-mais-um-e-subiu-ele-mesmo.png \
+	quando-os-balões-chegaram-no-alto.png
 
 %.png: %.svg
 	inkscape $< --export-dpi=144 --export-png=$@
