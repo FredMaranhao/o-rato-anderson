@@ -19,7 +19,8 @@ imagens: em-branco.png era-uma-vez.png esse-rato-morava-num-buraco.png \
 	e-falou-umas-palavras-mágicas.png depois-bergson-fez-outro-balão.png \
 	depois-fez-mais-um-e-geraldo-subiu.png \
 	e-depois-fez-mais-um-e-subiu-ele-mesmo.png \
-	quando-os-balões-chegaram-no-alto.png
+	quando-os-balões-chegaram-no-alto.png e-lá-estava-o-queijo.png \
+	mas-nesta-hora-geraldo-gritou.png
 
 %.png: %.svg
 	inkscape $< --export-dpi=144 --export-png=$@
